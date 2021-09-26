@@ -1,4 +1,4 @@
-In this notebook the below functions will be explained
+In this notebook the execution of the below functions in python will be explained
 
 - Range function
 - For statement
