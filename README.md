@@ -34,3 +34,4 @@ String Objects and Collection.ipynb contains the following functions:
 - nested list
 - extend()
 - index()
+- list comprehension
