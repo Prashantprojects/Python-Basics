@@ -35,3 +35,9 @@ String Objects and Collection.ipynb contains the following functions:
 - extend()
 - index()
 - list comprehension
+
+Tuples, Sets, Dictionary object basics, Dictionary.ipynb contains the following functions
+- Tuple
+- Set
+- Dictionary
+
