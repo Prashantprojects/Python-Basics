@@ -1,4 +1,4 @@
-In this notebook the execution of the below functions in python will be explained
+In this notebook the execution of the below functions in python will be explained with added asignments to gain knowledge
 
 Python Basics.ipynb contains the following functions:
 - Range function
@@ -40,4 +40,15 @@ Tuples, Sets, Dictionary object basics, Dictionary.ipynb contains the following 
 - Tuple
 - Set
 - Dictionary
+
+
+Functions.ipynb
+
+In this notebook the below functions will be explained
+
+- def 
+- function with map()
+- lambda
+- function with reduce()
+- function with filter()
 
