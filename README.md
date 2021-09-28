@@ -10,7 +10,7 @@ In this notebook the execution of the below functions in python will be explaine
 - Input 
 - "+" Operator
 
-String Objects and Collection.ipynb contains the following functions:
+**String Objects and Collection.ipynb contains the following functions:**
 - upper()
 - lower()
 - split()
@@ -36,29 +36,26 @@ String Objects and Collection.ipynb contains the following functions:
 - index()
 - list comprehension
 
-Tuples, Sets, Dictionary object basics, Dictionary.ipynb contains the following functions
+**Tuples, Sets, Dictionary object basics, Dictionary.ipynb contains the following functions**
 - Tuple
 - Set
 - Dictionary
 
 
-Functions.ipynb
-
-In this notebook the below functions will be explained
-
+**Functions.ipynb**
 - def 
 - function with map()
 - lambda
 - function with reduce()
 - function with filter()
 
-Assignment Python Basics, Conditional Loops:
+**Assignment Python Basics, Conditional Loops:**
 1. Write a program which wil find all such numbers which are divisble by 7 but are not a mulitple of 5, between 2000 and 3200 (both included). The numbers obtained should be printed in a comma-seperated sequance on a single line
 2. Write a Python program to accept the user's first and last name and the ngetting them printden in the reverse order witha space between first name and last name
 3. Write a Python pragram to find the volume of a sphere wit diameter 12 cm
 
 
-Assignment String, Objects and List Objects
+**Assignment String, Objects and List Objects**
 1. Create the below pattern using nested for loops in Python.
 2. ![Random Unsplash Image](https://www.w3resource.com/w3r_images/python-conditional-image-exercise-4.png)
 3. Write a Python program to reverse a word after accepting the input from the user.
