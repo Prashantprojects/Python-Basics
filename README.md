@@ -57,7 +57,7 @@ In this notebook the execution of the below functions in python will be explaine
 
 **Assignment String, Objects and List Objects**
 1. Create the below pattern using nested for loops in Python.
-2. ![Random Unsplash Image](https://www.w3resource.com/w3r_images/python-conditional-image-exercise-4.png)
+ ![Random Unsplash Image](https://www.w3resource.com/w3r_images/python-conditional-image-exercise-4.png)
 3. Write a Python program to reverse a word after accepting the input from the user.
 input word: Prashant\
 Output: tnahsarP
