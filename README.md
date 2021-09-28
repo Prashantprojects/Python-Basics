@@ -65,8 +65,8 @@ input word: Prashant\
 Output: tnahsarP
 
 **Assignment Tuples, set**
-1.1 Write a Python Program to implement your own myreduce() function which works exactly like Python's built-in function reduce()
-1.2 Write a Python program to implement your own myfilter() function which works exactly like Python's built in function filter()
+1.1 Write a Python Program to implement your own myreduce() function which works exactly like Python's built-in function reduce()\
+1.2 Write a Python program to implement your own myfilter() function which works exactly like Python's built in function filter()\
 2  Implement List comprehensions to produce the following lists.
 
 ['x', 'xx', 'xxx', 'xxxx', 'y', 'yy', 'yyy', 'yyyy', 'z', 'zz', 'zzz', 'zzzz'] \
