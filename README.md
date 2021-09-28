@@ -76,3 +76,11 @@ Output: tnahsarP
 [4, 5, 6, 7], [5, 6, 7, 8]] \
 [(1, 1), (2, 1), (3, 1), (1, 2), (2, 2), (3, 2), (1, 3), (2, 3), (3, 3)]
 
+
+**Assignment Dictionaries and Function**
+
+1.1 Write a Python Program (with class concepts) to find the area of the triangle using the below formula
+1.2 Write a function filter_long_words() that takes a list of words and an integer n and return the list of words that are longer than n
+2.1 Write a Python program using function concept that maps list of words into a list of integers representing the lengths of the corresponding words.
+2.2 Write a Python function which takes a character (i.e. a string of legth 1) and returns True if it is a vowel, False otherwise
+
