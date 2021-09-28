@@ -1,6 +1,6 @@
 In this notebook the execution of the below functions in python will be explained with added asignments to gain knowledge
 
-Python Basics.ipynb contains the following functions:
+**Python Basics.ipynb contains the following functions:**
 - Range function
 - For statement
 - For else statement
